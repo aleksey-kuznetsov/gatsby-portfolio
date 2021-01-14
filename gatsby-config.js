@@ -24,5 +24,12 @@ module.exports = {
       },
       __key: 'images',
     },
+    {
+      resolve: 'gatsby-plugin-yandex-metrika',
+      options: {
+        trackingId: 71193469,
+        webvisor: true,
+      },
+    },
   ],
 };
