@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Layout } from '../../components/layout';
-import { experience } from '../../config/experience';
+import { Layout } from '../components/layout';
+import { experience } from '../config/experience';
 
 export default () => {
   return (

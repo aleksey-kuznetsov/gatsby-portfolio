@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Layout } from '../../components/layout';
-import { projects } from '../../config/projects';
+import { Layout } from '../components/layout';
+import { projects } from '../config/projects';
 
 export default () => {
   return (
